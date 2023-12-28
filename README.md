@@ -24,8 +24,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/natansh-shah-795874250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natansh-shah-795874250" height="30" width="40" /></a>
 <a href="https://instagram.com/natansh_shah05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="natansh_shah05" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/natansh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="natansh05" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/noob_coder005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="noob_coder005" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@natansh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="natansh05" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/noob_coder05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="noob_coder005" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/noob_coder005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noob_coder005" height="30" width="40" /></a>
 </p>
 
