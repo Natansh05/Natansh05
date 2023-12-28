@@ -5,15 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natansh05" alt="natansh05" /></a> </p>
 
-- 🔭 I’m currently working on **I'm currently a 2nd year student, focusing on projects related to DSA, CP, and AppDev.**
+## 🔭 What I'm Working On
+**I'm currently a 2nd year student, focusing on projects related to DSA, CP, and AppDev.**
 
-- 🌱 I’m currently learning **I'm currently learning DSA, CP, and Flutter to enhance my skills in algorithms, competitive programming, and**
+## 🌱 I’m currently learning 
+**I'm currently learning DSA, CP, and Flutter to enhance my skills in algorithms, competitive programming, and**
 
-- 💬 Ask me about **I am pretty fluent in C,C++ and Data Structures and Algorithms.Feel free to ask me anything about these topics!!**
+## 💬 Ask me about 
+**I am pretty fluent in C,C++ and Data Structures and Algorithms.Feel free to ask me anything about these topics!!**
 
-- 📫 How to reach me **202201445@daiict.ac.in**
+## 📫 How to reach me 
+**202201445@daiict.ac.in**
 
-- ⚡ Fun fact **I think I am funny 😁**
+## ⚡ Fun fact
+**I think I am funny 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
