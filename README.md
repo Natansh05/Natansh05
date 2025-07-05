@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natansh05" alt="natansh05" /></a> </p>
 
 ## 🔭 What I'm Working On
-**I'm currently a 2nd year student, focusing on projects related to DSA, CP, and AppDev.**
+**I'm currently a final year student, focusing on projects related to DSA, CP, and AppDev.**
 
 ## 🌱 I’m currently learning 
 **I'm currently learning DSA, CP, and Flutter to enhance my skills in algorithms, competitive programming, and**
